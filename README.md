@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Dexametazone
+- 👀 I’m interested in cpp, JS & python
+- 🌱 I’m currently learning machine learning
+- 💞️ I’m looking to collaborate on cpp
